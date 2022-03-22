@@ -60,7 +60,7 @@ div.container-fluid{
     display:inline-block;
     vertical-align:middle;
     margin-top: -50px;
-    
+    margin-left: 5px;
     animation-name:pulse_animation;animation-duration:2500ms;
     transform-origin:50% 50%;animation-timing-function:ease-in-out}
     @media (min-width: 375px){
